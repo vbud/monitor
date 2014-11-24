@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 1
+/red.png
+/green.png
+/socket.io/socket.io.js
+/jquery-1.10.2.min.js
+/background.png
+
+NETWORK:
+index.html
+*
+
